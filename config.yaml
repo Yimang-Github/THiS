@@ -1,0 +1,56 @@
+baseurl: /
+title: 时间社THiS
+languageCode: zh
+paginate: '10'
+theme: Mainroad
+disqusShortname: ''
+googleAnalytics: ''
+summaryLength: truncate 20
+Author:
+  avatar: img/logo.png
+  bio: 一个致力于推动历史社会科学和社会理论的思考、实践与对话的平台
+  name: 时间社THiS
+menu:
+  main:
+    - name: 讲坛
+      url: /Lecture
+    - name: 论坛
+      url: /Seminar
+    - name: 课纲
+      url: /Syllabus
+    - name: ENGLISH
+      url: /English      
+Params:
+  authorbox: yes
+  description: John Doe's Personal blog about everything
+  logo:
+    subtitle: Theory, History, Society
+  mainSections:
+    - Lecture
+    - Seminar
+    - Syllabus
+    - English
+   # - docs
+  opengraph: yes
+  pager: yes
+  post_meta:
+    - date
+    - categories
+  readmore: no
+  sidebar:
+    home: right
+    list: right
+    single: right
+    widgets:
+      - search
+      - recent
+      - categories
+      - taglist
+      - social
+  twitter_cards: yes
+  widgets:
+    recent_num: 5
+    tags_counter: no
+    social:
+      twitter: THiS_TheHisSoc
+
