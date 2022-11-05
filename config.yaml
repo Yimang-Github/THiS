@@ -13,18 +13,21 @@ Author:
 menu:
   main:
     - name: 讲坛
-      url: /Lecture
+      url: /Lecture/
     - name: 论坛
-      url: /Seminar
+      url: /Seminar/
     - name: 课纲
-      url: /Syllabus
+      url: /Syllabus/
     - name: ENGLISH
-      url: /English      
+      url: /English/
+    - name: ABOUT
+      url: /about
 Params:
   authorbox: yes
-  description: John Doe's Personal blog about everything
+  description: This is the website for THiS
   logo:
     subtitle: Theory, History, Society
+    image: "img/logo.png"
   mainSections:
     - Lecture
     - Seminar
@@ -32,6 +35,8 @@ Params:
     - English
    # - docs
   opengraph: yes
+  thumbnail:
+    list: true
   pager: yes
   post_meta:
     - date
