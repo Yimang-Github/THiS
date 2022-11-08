@@ -1,9 +1,9 @@
 ---
 title: "时间社青年社会学者工作坊｜经典回访与前沿探索"
 author: "时间社"
-date: "2022-08-11"
-categories: ["论坛"]
-tags: ["论文工作坊","论坛"]
+date: 2022-08-11
+categories: ["工作坊/Workshop"]
+tags: ["工作坊/Workshop"]
 ---
 
 ![](/img/logo.png)

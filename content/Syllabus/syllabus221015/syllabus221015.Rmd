@@ -4,8 +4,8 @@ author: "时间社"
 output: html_document
 date: 2022-10-15T21:13:14-05:00
 thumbnail: "img/yanfei.png"
-categories: ["课纲"]
-tags: ["课纲"]
+categories: ["课纲/Syllabus"]
+tags: ["课纲/Syllabus"]["比较历史分析/Comparative-Histotry Analysis"]
 ---
 
 

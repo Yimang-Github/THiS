@@ -1,16 +1,16 @@
 ---
 title: "时间社讲坛视频 | 布洛维谈杜波依斯和社会理论经典"
 author: "时间社"
-date: "2022-5-10"
+date: 2022-5-10
 output: html_document
-categories: ["讲坛"]
-tags: ["理论","讲坛"]
+categories: ["讲坛/Lecture"]
+tags: ["理论/Theory","讲坛/Lecture"]
 ---
 
 
 # 时间社讲坛视频 | 布洛维谈杜波依斯和社会理论经典
 
-![](/img/logo.png)
+![](/img/logo1.png)
 
 北京时间5月8日上午，加州大学伯克利分校社会学系教授、美国社会学会前会长迈克尔·布洛维（Michael Burawoy）和四位中国社会学理论家一起，就杜波依斯（W. E. B. Du Bois）的社会学思考及其对当下社会学发展的启示展开了热烈的讨论。
 

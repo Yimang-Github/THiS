@@ -12,15 +12,17 @@ Author:
   name: 时间社THiS
 menu:
   main:
-    - name: 讲坛
+    - name: 论坛 Forum
+      url: /Forum/
+    - name: 讲坛 Lecture
       url: /Lecture/
-    - name: 论坛
-      url: /Seminar/
-    - name: 课纲
+    - name: 工作坊 Workshop
+      url: /Workshop/
+    - name: 课纲 Syllabus
       url: /Syllabus/
-    - name: ENGLISH
-      url: /English/
-    - name: ABOUT
+    - name: 视频 Video
+      url: /Video
+    - name: 关于 ABOUT
       url: /about
 Params:
   authorbox: yes
@@ -29,11 +31,10 @@ Params:
     subtitle: Theory, History, Society
     image: "img/logo.png"
   mainSections:
+    - Forum
     - Lecture
-    - Seminar
+    - Workshop
     - Syllabus
-    - English
-   # - docs
   opengraph: yes
   thumbnail:
     list: true
