@@ -16,7 +16,7 @@ tags: ["工作坊-Workshop"]
 
 ![](/img/logo2.png)
 
-上半场：北京时间8月20日 20:00-22:00
+**上半场：北京时间8月20日 20:00-22:00**
 
 
 
@@ -26,25 +26,25 @@ tags: ["工作坊-Workshop"]
 
 韩礼涛 - 北京工业大学文法学部 讲师
 
-    计划发包与基层税收征管——以1978年后的X县税务局为例
+- 计划发包与基层税收征管——以1978年后的X县税务局为例
 
 
 
 周浥莽 - 纽约州立大学奥本尼分校社会学系 博士生
 
-    信托公司如何发展为跨行业金融巨头？
+- 信托公司如何发展为跨行业金融巨头？
 
 
 
 帕提哈西·塔拉甫别克  - 浙江大学社会学系 博士生
 
-    哈萨克斯坦国家形塑之下的部落
+- 哈萨克斯坦国家形塑之下的部落
 
 
 
 张博伦 - 加州大学圣迭戈分校社会学系 博士生
 
-    Public Good or Private Weapon? - Open-Source Software as a Tool in Standard Setting, Using Chromium Project as a Case
+- Public Good or Private Weapon? - Open-Source Software as a Tool in Standard Setting, Using Chromium Project as a Case
 
 
 
@@ -60,8 +60,7 @@ tags: ["工作坊-Workshop"]
 
 
 
-下半场 ：北京时间8月21日 9:00-11:00
-
+**下半场 ：北京时间8月21日 9:00-11:00**
 
 
 报告人及题目
@@ -70,25 +69,25 @@ tags: ["工作坊-Workshop"]
 
 罗薇 - 北京大学政府管理学院 助理教授
 
-    Organizing for Crisis: Shanghai Civic Association and Formalization of Elite Voluntary Organizations, 1932-1936
+- Organizing for Crisis: Shanghai Civic Association and Formalization of Elite Voluntary Organizations, 1932-1936
 
 
 
 朱昉晟 - 昆山杜克大学社会学 助理教授
 
-    Reformer’s Paradox: Procedures and Protests in China
+- Reformer’s Paradox: Procedures and Protests in China
 
 
 
 谢雯 – 北京大学社会学系 助理教授
 
-    再探城市性 - 东北作为个案的启示
+- 再探城市性 - 东北作为个案的启示
 
 
 
 骆之凡 - 康卡迪亚大学社会学与人类学系 助理教授
 
-    Censorship & Surveillance as Complicit Actions: Understand Individuals’ Role in Digital Authoritarianism
+- Censorship & Surveillance as Complicit Actions: Understand Individuals’ Role in Digital Authoritarianism
 
 
 
