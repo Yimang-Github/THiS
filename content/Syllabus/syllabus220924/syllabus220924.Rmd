@@ -4,8 +4,8 @@ author: "时间社"
 date: "2022-09-24"
 thumbnail: "img/chenshuang.png"
 output: html_document
-categories: ["课纲 syllabus"]
-tags: ["课纲/syllabus"]
+categories: ["课纲-Syllabus"]
+tags: ["课纲-Syllabus"]
 ---
 
 ## 时间社THiS课程大纲系列介绍

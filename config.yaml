@@ -21,7 +21,9 @@ menu:
     - name: 课纲 Syllabus
       url: /Syllabus/
     - name: 视频 Video
-      url: /Video
+      url: /Video/
+    - name: 有书斋 Book Talk
+      url: /THiSBook/
     - name: 关于 ABOUT
       url: /about
 Params:
