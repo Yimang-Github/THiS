@@ -4,8 +4,8 @@ author: "时间社"
 date: 2022-11-11
 output: html_document
 thumbnail: "img/longyan.png"
-categories: ["课纲/Syllabus"]
-tags: ["课纲/Syllabus","全球化/Globalization"]
+categories: ["课纲-Syllabus"]
+tags: ["课纲-Syllabus","全球化-Globalization"]
 
 ---
 <font face = "微软雅黑">
