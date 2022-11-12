@@ -1,0 +1,193 @@
+---
+title: "时间社课纲｜ 加州大学伯克利分校龙彦：全球化理论"
+author: "时间社"
+date: 2022-11-11
+output: html_document
+thumbnail: "img/longyan.png"
+categories: ["课纲/Syllabus"]
+tags: ["课纲/Syllabus","全球化/Globalization"]
+
+---
+<font face = "微软雅黑">
+
+## 时间社THiS课程大纲系列介绍
+
+
+自2022年2月成立以来，时间社THiS（Theory, History, Society）致力于推动历史社会科学和社会理论的思考、实践与对话。今年暑假，我们推出时间社课纲系列，定期授权分享社会理论与方法实践、历史学与社会科学交叉领域的相关课程教纲，供有兴趣的朋友参考。推出这个栏目，既是知识和经验的分享，也缘于教中学的理念。我们希望借此获取对课程设计的反馈，欢迎大家在评论区留言，提出建议或问题，也殷切期盼学界同好联系我们，在本公号发布相关课程大纲。
+
+
+
+联系邮箱：shijianshe2022@gmail.com
+
+
+## 《全球化理论》课程介绍
+
+全球与跨国社会学是社会学里一个新兴的分支。和其他历史悠久的领域相比，这个年轻的分支本身只有极少数成型的社会学理论流派，在绝大多数的社会学系也没有专门的授课。这门为博士生们所设计的理论概论课也因此具有非常强烈的个人色彩，更多的代表了我自己多年独自探索中所总结出的重要的分析路径和理论传承。比如这个课纲一大特点是“杂”：因为美国社会学学科本身是以民族国家为核心，我不得不博采众家之长，广泛借鉴国际关系、历史学、人类学、法学、科技与社会研究（STS）等等。如何用跨学科的视角来撬动社会学走出地方主义属于日常折磨我的痛苦源泉之一。 
+
+        
+
+全球与跨国社会学理论课有三个目标。一是简略介绍自18世纪以来世界历史发展的重要宏观脉络以及当下走向。比如第三世界体系的形成与帝国的阴魂不散以及民族国家的兴起有何关系？二是理清关键的理论概念和分析视角。比如现代性的多样性（varieties of modernity）和多个现代性（multiple modernities）经常被用于理解中国在内的新兴经济体，但这些概念背后的知识谱系和政治争论是什么？三是就如何把对宏观现象的关注转变为经验研究可操作问题这一难点、帮助学生了解如何找到不同的田野入手点和研究设计。
+
+
+
+从结构上来看，这门课从对经典社会学的国家理论的回顾开始，然后探究三个主要的挑战民族国家中心主义的三种理论路径：以国际关系理论为代表的强调国家间关系的国际（international）讨论，以世界体系、世界社会以及现代性理论为代表的重于世界整体性分析的全球（global）讨论，和最近兴起的以跨国以及区域史学为代表的突出不同社会与社会以及社会与国家间互动的跨国（transnational）讨论。之后进入专题分析。这个部分每个学期都会根据上课学生的个人研究兴趣进行调整。比如过去曾经涵盖文化、移民、网络技术、环保、国际法等不同专题。这个学期则选择了社会抗争、知识网络、经济。最后一课请来全球与跨国社会学中的学者们进行方法和个人职业选择和发展的圆桌讨论。
+
+## 《全球化理论》授课教授
+
+**龙彦**，密歇根大学社会学与妇女研究博士，现任加州大学伯克利分校助理教授。近期研究兴趣主要包括公共卫生、国际组织、城市与科技等等。作品曾获得美国社会学学会多项论文奖。其专著Authoritarian Absorption: The Transnational Remaking of Infectious Disease Politics in China明年将由牛津大学出版社推出。
+
+## 全球化理论 Sociology of Globalization
+
+
+</font>
+
+
+**Week 1 - Introduction**
+
+
+**Week 2 - “The State,” A Point of Departure** 
+
+➤ Geertz, Clifford. 1980. Negara: The Theatre State in 19th Century Bali. Introduction and Chapter 3. Princeton University Press. 
+
+➤ Mann, Michael. 1984. “The Autonomous Power of the State: Its Origins, Mechanisms, and Results.” European Journal of Sociology Vol. 25: 185‐213.
+
+➤ Marx, Karl. 1978. “The Eighteenth Brumaire of Louis Napoleon.” Pp. 594-617 in Robert Tucker The Marx-Engels Reader. New York: W. W. Norton & Company.
+
+➤ Mitchell, Timothy. 1999. “Society, Economy, and the State Effect.” Pp. 76‐97 in George Steinmetz ed. State/Culture: State‐Formation after the Cultural Turn. Ithaca: Cornell University Press. 
+
+➤ Weber, Max. 1946. “Politics as a Vocation.” Pp. 77‐128 in H.H. Gerth and C. Wright Mills (Trans. and eds.), From Max Weber: Essays in Sociology, New York: Oxford University Press. 
+
+
+**Week 3 - The International: Realism vs. Liberalism vs. Constructivism**
+
+➤ Gilpin, Robert. 1981. Chapter 1. War & Change in World Politics. New York: Cambridge University Press. 
+
+➤ Finnemore, Martha and Kathryn Sikkink. 1998. “International Norm Dynamics and Political Change.” International Organization 52 (4): 887-918.  
+
+➤ Lieber, Keir. 2007. “The New History of World War I and What It Means for International Relations Theory.” International Security 32 (2): 155-91. 
+
+➤ Snidal, Duncan. 1985. “The Limits of Hegemonic Stability Theory.” International Organization 39 (4):  579-614.
+
+➤ Krasner, Stephen (ed). 1983. First and last chapters. International Regimes. Ithaca, NY: Cornell University Press. 
+
+➤ Tannenwald, Nina. 1999. “The Nuclear Taboo: The United States and the Normative Basis of Nuclear Non‐Use.” International Organization 53 (3): 433-68.  
+
+
+**Week 4 - The Global 1: World System**
+
+➤ Wallerstein, Wallerstein, Immanuel. 2004. World-Systems Analysis Durham, NC: Duke University Press.
+
+➤ Arrighi, Giovanni.  1990. “The Three Hegemonies of Historical Capitalism.”  Review 13(3): 365-408.
+
+➤ Hung, Ho-fung. 2022. Clash of Empires. Cambridge University Press. 
+
+Optional Readings:
+
+➤ Arrighi, Giovanni. 2010. The Long Twentieth Century: Money, Power and the Origin of Our Times. Verso, New York. 
+
+
+**Week 5 - The Global 2: World Society**
+
+➤ Meyer, John, John Boli, George M. Thomas, and Francisco O. Ramirez. 1997. “World Society and the Nation State.” American Journal of Sociology 103: 144-81.
+
+➤ Meyer, John W., and Brian Rowan. 1977. “Institutionalized Organizations: Formal Structure as Myth and Ceremony.” American Journal of Sociology 83:340-63. 
+
+➤ Meyer, John W., and Ronald L. Jepperson. 2000. “The 'Actors' of Modern Society: The Cultural Construction of Social Agency.” Sociological Theory 18:100-20. 
+
+➤ Beckfield, Jason. 2010. “The Social Structure of the World Polity.” American Journal of Sociology 115:1018-68.
+
+➤ Bromley, Patricia, Evan Schofer, and Wesley Longhofer. 2019. “Contentions over World Culture: The Rise of Legal Restrictions on Foreign Funding to NGOs, 1994–2015.” Social Forces 1-24. 
+
+➤ Schofer, Evan and Wesley Longhofer. 2011. “The Structural Sources of Association.” American Journal of Sociology 117 (2): 539-85. 
+
+
+**Week 6 - The Global 3: Modernities**
+
+➤ Eisenstadt, Shmuel N. 2000. “Multiple Modernities.” Daedalus 129:1-29.
+
+➤ Fourcade-Gourinchas, Marion, and Sarah L. Babb. 2002. “The Rebirth of the Liberal Creed: Paths to Neoliberalism in Four Countries.” American Journal of Sociology 108: 533-79.
+
+➤ Schmidt, Volker H. 2006. “Multiple Modernities or Varieties of Modernity?” Current Sociology 54: 77-97.
+
+➤ Wimmer, Andreas. 2018. Chapters 1-2. Nation Building: Why Some Countries Come Together while Others Fall Apart. Princeton University Press. 
+
+➤ Scott, James. 2009. Chapter 1 and 5. The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia. New Haven: Yale University Press. 
+
+➤ Clulow, Adam. 2014. Introduction. The Company and the Shogun: The Dutch Encounter with Tokugawa Japan. Colombia University Press. 
+
+
+**Week 7 - The Transnational 1: The Soviet Union Empire and Third Worldism**
+
+➤ Byrne, Jeffery James. 2016. Introduction and skim Chapter 4. Mecca of Revolution: Algeria, Decolonization and the Third World Order. New York: Oxford University Press.
+
+➤ Goebel, Michael. Introduction and Chapter 5. Anti-Imperial Metropolis: Interwar Paris and the Seeds of Third-World Nationalism. Cambridge University Press. 
+
+➤ Kumar, Krishan. 2010. “Nation-states as Empires, Emperies as Nation-States: Two Principles, One Practice?” Theory and Society 39: 119-43.
+
+➤ Martin, Terry. 2001. Introduction. The Affirmative Action Empire: Nations and Nationalism in the Soviet Union, 1923-1939. Cornell University Press. 
+
+➤ Kalinovsky, Artemy. 2011. Introduction. A Long Goodbye: The Soviet Withdrawal from Afghanistan. Cambridge: Harvard University Press.  
+
+
+**Week 8 - The Transnational 2: Rediscovering the Global South**
+
+➤ Rodriguez, Robyn Magalit. 2010. Introduction. Migrants for Export: How the Philippine State Brokers. Labor to the World. Minneapolis: University of Minnesota Press. 
+
+➤ Hopewell, Kristen. 2016. Introduction. Breaking the WTO: How Emerging Powers Disrupted the Neoliberal Project. Stanford: Stanford University Press. 
+
+➤ Dubois, Laurent. 2004. Prologue and Chapter 1. Avengers of the New World: The Story of the Haitian Revolution. Harvard University Press. 
+
+➤ Beckert, Sven. 2017. “American Danger: United States Empire, Eurafrica, and the Territorialization of Industrial Capitalism, 1870–1950.” American Historical Review 1137-1170. 
+
+➤ Mamdani, Mahmood. Chapter 3. When Victims Become Killers: Colonialism, Nativism, and the Genocide in Rwanda. Princeton University Press.  
+
+Optional Readings:
+
+➤ Ferguson, James. 2006. Introduction and Chapter 4. Global Shadows: Africa in the Neoliberal World Order. Durham and London: Duke University Press. 
+
+➤ Sassen, Saskia. 2000. “The Global City: Strategic Site/New Frontier.” American Studies 41:2/3 (Summer/Fall 2000): 79‐95. 
+
+
+**Week 9 - Transnational Contentious Politics**
+
+➤ Bob, Clifford. 2005. Chapter 1 and Chapter 2. The Marketing of Rebellion. Insurgents, Media, and International Activism. Cambridge University Press. 
+
+➤ Long, Yan. 2018. “The Contradictory Impact of Transnational AIDS Institutions on State Repression in China, 1989–2013.”  American Journal of Sociology 124(2): 309-66. 
+
+➤ Tarrow, Sidney. 2004. Introduction and Chapter 1. The New Transnational Activism. Cambridge University Press.
+
+➤ Velasco, Kristopher. Forthcoming. Transnational Backlash and the Deinstitutionalization of Liberal Norms: LGBT+ Rights in a Contested World.” American Journal of Sociology.
+
+➤ Evans, Tamara. 2018. Introduction and Chapter 1. Trade Battles: Activism and the Politicization of International Trade Policy. Oxford University Press.
+
+
+**Week 10 - Theme 2: Epistemic Networks**
+
+➤ Haas, Peter. 1992. “Introduction: Epistemic Communities and International Policy Coordination.” International Organization 46 (1): 1-35.
+
+➤ Merry, Sally. 2016. Introduction and skim Chapter 3. The Seductions of Quantification: Measuring Human Rights, Gender Violence, and Sex Trafficking. Chicago: University of Chicago Press.
+
+➤ O’Reilly, Jessica. 2017. Introduction. The Technocratic Antarctic: An Ethnography of Scientific Expertise and Environmental Governance. Ithaca: Cornell University Press.
+
+➤ Crane, Johanna. 2013. Chapter 4. Scrambling for Africa: AIDS, Expertise, and the Rise of American Global Health Science. Cornell University Press.  
+
+➤ Paul, Anju. 2022. Introduction and Chapter 6. Asian Scientists on the Move: Changing Science in a Changing Asia. Cambridge University Press. 
+
+
+**Week 11 - Theme 3: Transnational Economy**
+
+➤ Bartley, Tim. 2018. Introduction and Chapter 6. Rules Without Rights: Land, Labor and Private Authority in the Global Economy. Oxford: Oxford University Press.
+
+➤ James, Deborah. 2014. Introduction and Chapter 4. Money from Nothing: Indebtedness and Aspiration in South Africa. Stanford University Press.
+
+➤ Walker, Edward. 2015. “Global Corporate Resistance to Public Pressures: Corporate Stakeholder Mobilization in the United States, Norway, Germany, and France.” Pp. 321-62 in Kiyoteru Tsutsui, Alwyn Lim (eds.) Corporate Social Responsibility in a Globalizing World. Cambridge University Press.
+
+➤ Baud, Celine, and Cedric Durand. 2012. “Financialization, Globalization and the Making of Profits by Leading Retailers.” Socio-Economic Review 10: 241-266. 
+
+➤ Lee, Ching-Kwan. 2017. Chapters 1 and 2. The Specter of Global China: Politics, Labor, and Foreign Investment in Africa. The University of Chicago Press. 
+
+
+**Week 12 - Tackling Globalization Empirically**
+
+Panel Discussants
+
