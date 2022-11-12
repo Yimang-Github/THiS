@@ -4,7 +4,7 @@ author: "时间社"
 date: "2022-02-12"
 output: html_document
 categories: ["论坛-Forum"]
-tags: ["论坛-Forum", "事件"]
+tags: ["论坛-Forum", "事件-Event"]
 editor_options: 
   markdown: 
     wrap: 72
