@@ -23,7 +23,7 @@ menu:
     - name: 视频 Video
       url: /Video/
     - name: 有书斋 Book Talk
-      url: /Book Talk/
+      url: /Booktalk/
     - name: 关于 ABOUT
       url: /about
 Params:
@@ -37,6 +37,7 @@ Params:
     - Lecture
     - Workshop
     - Syllabus
+    - Booktalk
   opengraph: yes
   thumbnail:
     list: true
