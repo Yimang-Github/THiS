@@ -2,7 +2,7 @@
 title: "时间社课纲｜爱荷华大学陈爽：《中国历史中的爱情与友谊》"
 author: "时间社"
 date: "2022-09-24"
-#thumbnail: "img/chenshuang.png"
+thumbnail: "img/chenshuang.png"
 output: html_document
 categories: ["课纲-Syllabus"]
 tags: ["课纲-Syllabus"]

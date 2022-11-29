@@ -5,6 +5,8 @@ date: "2022-06-18"
 output: html_document
 categories: ["课纲-Syllabus"]
 tags: ["课纲-Syllabus","比较历史社会学-comparative historical sociology"]
+thumbnail: "img/syllabus220618.png"
+
 ---
 ## 时间社THiS课程大纲系列介绍
 

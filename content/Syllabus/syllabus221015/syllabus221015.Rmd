@@ -3,7 +3,7 @@ title: "时间社课纲｜清华大学严飞：《比较历史分析》"
 author: "时间社"
 output: html_document
 date: 2022-10-15
-#thumbnail: "img/yanfei.png"
+thumbnail: "img/yanfei.png"
 categories: ["课纲-Syllabus"]
 tags: ["课纲-Syllabus","比较历史社会学-comparative historical sociology"]
 ---

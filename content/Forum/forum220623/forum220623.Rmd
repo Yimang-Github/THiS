@@ -3,6 +3,8 @@ title: "时间社圆桌论坛 | 人文社会科学的历史感与理论感"
 author: "时间社"
 date: "2022-06-23"
 output: html_document
+thumbnail: "img/forum220623.png"
+
 ---
 ## 人文社会科学的历史感与理论感
 
@@ -11,8 +13,6 @@ output: html_document
 
 
 这是“时间社THiS”组织的在线圆桌论坛之二。十二位不同学术背景的人文社科学者，将从各自研究经验出发讨论人文社科的历史感与理论感。欢迎大家关注、转发、参与！
-
-![](/img/poster220623.png)
 
 
 

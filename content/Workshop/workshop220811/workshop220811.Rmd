@@ -3,6 +3,7 @@ title: "时间社青年社会学者工作坊｜经典回访与前沿探索"
 author: "时间社"
 date: 2022-08-11
 categories: ["工作坊-Workshop"]
+thumbnail: "img/poster220811.png"
 tags: ["工作坊-Workshop"]
 ---
 
@@ -12,7 +13,6 @@ tags: ["工作坊-Workshop"]
 
 这是“时间社THiS”组织的首次在线论文工作坊。欢迎大家关注、转发、参与！
 
-![](/img/poster220811.png)
 
 ![](/img/logo2.png)
 

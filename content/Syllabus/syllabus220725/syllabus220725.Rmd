@@ -5,6 +5,7 @@ date: "2022-07-25"
 output: html_document
 categories: ["课纲-Syllabus"]
 tags: ["课纲-Syllabus"]
+thumbnail: "img/syllabus220725.png"
 ---
 ![](/img/logo1.png)
 
