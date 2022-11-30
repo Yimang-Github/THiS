@@ -4,7 +4,6 @@ author: "时间社"
 date: "2022-06-23"
 output: html_document
 thumbnail: "img/forum220623.png"
-
 ---
 ## 人文社会科学的历史感与理论感
 
