@@ -22,14 +22,14 @@ output: html_document
 
 
 <center>
-<iframe id="test"  src="https://v.qq.com/txp/iframe/player.html?vid=v33449v5t4i" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" id="test"  src="https://v.qq.com/txp/iframe/player.html?vid=v33449v5t4i" allowFullScreen="true"></iframe>
 <script type="text/javascript">
 document.getElementById("test").style.height=document.getElementById("test").scrollWidth*0.76+"px";
 </script>
 
 </br>
 
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=m3344s8xrym" allowFullScreen="true"></iframe>
+<iframe  width="560" height="315" frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=m3344s8xrym" allowFullScreen="true"></iframe>
 <script type="text/javascript">
 document.getElementById("test").style.height=document.getElementById("test").scrollWidth*0.76+"px";
 </script>
@@ -40,7 +40,7 @@ document.getElementById("test").style.height=document.getElementById("test").scr
 
 
 <center>
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=a3336bdm4pr" allowFullScreen="true"></iframe>
+<iframe  width="560" height="315" frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=a3336bdm4pr" allowFullScreen="true"></iframe>
 <script type="text/javascript">
 document.getElementById("test").style.height=document.getElementById("test").scrollWidth*0.76+"px";
 </script>
