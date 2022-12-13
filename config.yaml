@@ -38,6 +38,7 @@ Params:
     - Workshop
     - Syllabus
     - Booktalk
+    - Video
   opengraph: yes
   thumbnail:
     list: true
