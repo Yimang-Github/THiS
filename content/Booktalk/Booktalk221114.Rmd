@@ -1,5 +1,5 @@
 ---
-title: "时间社有书斋｜与赵鼎新对谈《儒法国家》"
+title: "时间社有书斋｜与赵鼎新对谈《儒法国家》（附视频）"
 author: "时间社"
 date: "2022-11-14"
 output: html_document
@@ -66,3 +66,6 @@ https://american.zoom.us/j/94004165618
 时间社
 
 
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i4eF6Oud_I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
