@@ -1,0 +1,201 @@
+---
+title: "时间社课纲｜美利坚大学张杨：《帝国古今》"
+author: "THiS"
+date: "2023-02-11"
+output: html_document
+thumbnail: "img/zhangyang.png"
+categories: ["课纲-Syllabus"]
+tags: ["课纲-Syllabus","帝国-Empire", "比较历史社会学-comparative historical sociology"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/img/logo1.png)
+
+## 课程介绍
+
+自2022年2月成立以来，时间社THiS（Theory, History, Society）致力于推动历史社会科学和社会理论的思考、实践与对话。今年暑假，我们推出时间社课纲系列，定期授权分享社会理论与方法实践、历史学与社会科学交叉领域的相关课程教纲，供有兴趣的朋友参考。推出这个栏目，既是知识和经验的分享，也缘于教中学的理念。我们希望借此获取对课程设计的反馈，欢迎大家在评论区留言，提出建议或问题，也殷切期盼学界同好联系我们，在本公号发布相关课程大纲。
+
+联系邮箱：shijianshe2022@gmail.com
+
+
+##《帝国古今》课程介绍 Empire: Past and Present
+
+帝国是人类历史上持久而强大的统治型态，而欧洲殖民帝国更塑造了现代世界体系。最近二十年，帝国研究成为历史社会科学成果最为丰硕的领域之一，在全球史、历史社会学、政治思想史、历史国际关系、历史人类学、批判地理学以及人文学科都带来深远影响。这些研究修正甚至改变了我们对国家、种族、民族主义、自由主义、国际秩序等重要问题的传统观点。帝国研究也为分析当代大国政治经济和国际体系提供了有益视角。
+
+《帝国古今》是为跨学科的国际服务学院研究生开设的研讨课。课程每周一次，每次两个半小时，采用讲授和讨论相结合的方式。课程没有按照主题（theme）来组织，而是大体上按照时序（chronology）组织。这种组织方式和一般的社会科学课程不同，也与类似主题的《国家社会学》、《民族主义》等课程不同。帝国的漫长历史和丰富形态，使得任何简单的抽象和分类都不合适。而最近十来年关于帝国最重要的通论性著作，也是本课程的教材——Empires in World History——也是按照时间顺序来组织全书。
+
+除了导论以外，课程分为四个部分，每个部分三周：欧亚传统帝国、现代殖民帝国、帝国转型和消亡、当代帝国复兴。课程不仅仅分析现代欧洲帝国主义，也梳理了欧亚大陆传统帝国的几大源流：罗马帝国、中华帝国和以蒙古帝国为顶峰的内亚帝国传统。在分析现代帝国和民族国家的部分，课程强调了两者之间的交融互生，而非传统认为的线性转型关系。课程对后殖民主义等文化视角和批判理论也有所涉及，亦注重选择非白人学者的著作。每周的课程阅读材料为四篇论文或者书的章节，主要选自历史社会学、帝国史和全球史、历史国际关系的研究，也有来自其它相关学科的读物。通过跨学科的阅读和讨论，使大家了解帝国和帝国主义研究的不同视角和观点。
+
+## 授课教授
+
+张杨，美利坚大学国际服务学院助理教授，芝加哥大学社会学博士。主要研究兴趣包括比较历史社会学、政治社会学和社会科学方法论，研究项目包括革命与叛乱、帝国和国家建设、精英斗争、社会运动等。研究成果发表在American Journal of Sociology和《社会学研究》等杂志，曾获得美国社会学学会比较历史社会学分会Charles Tilly最佳论文奖。在美利坚大学，张杨开设的课程包括博士论文研究设计、帝国、抗争政治、自下而上的政治、全球和比较治理等。2021年，他获得美利坚大学国际服务学院杰出教学奖。
+
+![](/img/logo2.png)
+
+## 课程概述
+Course Description
+A great deal of human history is the history of empires. This course examines historical and contemporary empires within a comparative context wider than modern European imperialism. With a regional focus on Eurasia, the class explores key aspects of empire building: military expansion, indirect rule, unequal exchange, environmental impact, ideological hegemony, colonial policies, and ruling strategies towards heterogeneous regions, religions, races, and ethnic groups. Though most empires perished in the twentieth century, we will discuss how, where, and why their political, economic, and cultural legacies persisted in the post-colonial period. This course also proposes empire as an important lens for understanding contemporary global powers—which inherit, incorporate, and invent imperial institutions, identities, and strategies.
+
+Empire is not a historical relic; it is alive somewhere or about to revive elsewhere. Throughout the course, we will track three contemporary powers that still exert enormous influence on global politics, security, and economy: America, Russia, and China. By revealing the logic behind their decisions and behaviors, and by situating them in comparison to their precedents, counterparts, or competitors—Britain, Japan, and Rome—this course offers students the analytic tools to engage in pressing debates in domestic and international politics. 
+
+The contemporary relevance of empire compels us to reconsider some conventional narratives in the social sciences, such as the empire-nation transition and the dominance of nation-states since the late eighteenth century. Empire and nation-state are not discontinuous dichotomies nor is the transition from empire to nation-state a linear, irreversible process. Instead, this class emphasizes how empire and state intertwine to form hybrid complexes and how powerful empires can shape broader contexts and political possibilities of other states. Finally, this course hopes to inform political imagination in an age of an interconnected world and imminent global challenges. 
+
+### 作业和评分标准 Assignment and Assessment 
+1. Class Attendance (10%)
+2. Class Participation (10%) 
+3. Five Response Memos (10%) 
+4. Writing Assignments: Three Essays (70%)
+    a)Essay I (15%): 4-page Topic Overview. 
+    b)Essay II (20%): 6-page Comparative Review. 
+    c)Essay III (35%): 10-page Research Paper.
+
+### 课程教材
+Burbank, Jane, and Frederick Cooper. 2011. Empires in World History: Power and the Politics of Difference. Princeton University Press.
+
+### Empire: Past and Present
+
+#### Week 1—Introduction: Is Empire Still Alive? Why Study Empire?
+
+  Emanuele Saccarelli and Latha Varadarajan. 2015. “Empire Strikes Back: Imperialism, Past and Present.” Foreign Affairs.
+  
+  Charles Clover and Lucy Hornby. 2015. “China’s Great Game: Road to a New Empire.” Financial Times.
+  
+  Adam Tooze. 2020. “Whose Century?” London Review of Books 42(15).
+  
+  Jane Burbank. 2022. “The Grand Theory Driving Putin to War.” New York Times, March 22.
+
+### Week 2—Conceptualizing Empire and Imperialism
+  
+  Burbank and Cooper. Chapter 1, “Imperial Trajectories,” pp. 1-22.
+  
+  Doyle, Michael. 1986. Empires. Cornell University Press. Chapter 1, “Imperialism and Empire,” pp.19-47.
+  
+  Osterhammel, Jürgen. 1997. Colonialism: A Theoretical Overview. Trans by Shelley L. Frisch. Princeton, NJ: Marcus Wiener. Chapter 2, “‘Colonialism’ and ‘Colonial Empires’,” pp. 13-22.
+  
+  Lieven, Dominic. 2001. Empire: The Russian Empire and its Rivals. Yale University Press. Chapter 1, “Empire: A Word and its Meanings,” pp. 3-26. 
+  
+### Part I Pre-Modern Empires in Eurasia 
+  
+### Week 3—Classical Empires: Rome and China
+  Burbank and Cooper. Chapter 2, “Imperial Rule in Rome and China,” Pp. 23-60.
+  
+  Mann, Michael. 1986. The Sources of Social Power, Vol. 1: A History of Power from the Beginning to A.D. 1760. Cambridge: Cambridge University Press. Chapter 9, “The Roman Territorial Empire.”
+  
+  Kang, David C. 2010. East Asia before the West: Five Centuries of Trade and Tribute. Columbia University Press. Chapter 4, “Diplomacy: The Tribute System,” pp. 54-81.
+  
+  Blockmans, Wim, and Hilde De Weerdt. 2016. “The Diverging Legacies of Classical Empires in China and Europe.” European Review 24(2): 306-324.
+
+### Week 4—Central Eurasian Empires and the Mongols
+  Burbank and Cooper. Chapter 4, “Eurasian Connections: The Mongol Empires,” Pp.93-116.
+  
+  Abu-Lughod, Janet L. 1989. Before European Hegemony: The World System A.D. 1250-1350. Oxford University Press. Chapter 5, “The Mongols and the Northeast Passage,” pp. 153-184.
+  
+  Zarakol, Ayşe. 2022. Before the West: The Rise and Fall of Eastern World Orders. Cambridge University Press. Chapter 2, “Making the East: Chinggisid World Orders,” pp. 73-88.
+  
+  Di Cosmo, Nicola. 1999. “State Formation and Periodization in Inner Asian History.”  Journal of World History 10: 1-40.
+
+### Week 5—Early Modern Territorial Empires
+  Subrahmanyam, Sanjay. 2006. “A Tale of Three Empires: Mughals, Ottomans, and Habsburgs in a Comparative Context.” Common Knowledge 12: 66-92.
+  
+  Burbank and Cooper. Chapter 7, “Beyond the Steppe: Empire-Building in Russia and China,” pp. 185-218.
+  
+  Phillips, Andrew. 2021. How the East Was Won: Barbarian Conquerors, Universal Conquest and the Making of Modern Asia. Cambridge University Press. Chapter 5, “The Great Asian Divergence: Mughal Decline and Manchu Expansion in the Eighteenth Century,” pp. 158-206.
+  
+  Barkey, Karen. 2008. Empire of Difference: The Ottoman in Comparative Perspective. Cambridge University Press. Chapter 3, “Becoming an Empire: Imperial Institutions and Control from Conquest to Imperial Domains,” pp. 67-108.
+
+### Part II Modern Empires and Imperialism
+
+### Week 6—European Imperialism
+  
+  Burbank and Cooper. Chapter 6, “Oceanic Economics and Colonial Societies: Europe, Asia, and the America,” pp. 149-184.
+Abernethy, David B. 2000. The Dynamics of Global Dominance: European Overseas Empires 1415-1980. New Haven: Yale University Press. Chapter 2, “Why Did the Overseas Empires Rise, Persist, and Fall?” Pp. 18-42.
+  
+  Porter, Andrew. 1994. European Imperialism, 1860-1914. Houndmills: Macmillan. Chapter 3, “‘Metropolitan’ Explanations: Social and Economic,” pp. 30-49.
+  
+  Steinmetz, George. 2008. “The Colonial State as a Social Field: Ethnographic Capital and Native Policy in the German Overseas Empire before 1914.” American Sociological Review 73: 589-612. 
+
+### Week 7—Hegemonic Empire: The British Empire
+  
+  Go, Julian. 2012. Patterns of Empire: The British and American Empires, 1688 to the Present. Cambridge University Press. Chapter 1, “Imperial Paths to Power,” pp. 28-66.
+
+  Arrighi, Giovanni. 1993/2010. The Long Twentieth Century: Money, Power, and the Origins of Our Times, 2nd edition. London: Verso. Chapter 3, “Industry, Empire, and the ‘Endless’ Accumulation of Capital,” pp. 219-246.
+
+  Pitts, Jennifer. 2009. A Turn to Empire: The Rise of Imperial Liberalism in Britain and France. Princeton University Press. Introduction, pp. 1-21.
+  
+  Davis, Mike. 2002. Late Victorian Holocausts: El Niño Famines and the Making of the Third World. Verso Books. Chapter 9, “The Origins of the Third World,” pp. 279-310.
+
+### Week 8—Non-European Empires: America and Japan
+
+  Burbank and Cooper. Chapter 9, “Empires across Continents: The United States and Russia,” pp. 251-286.
+  
+  Immerwahr, Daniel. 2019. How to Hide an Empire: A Short History of the Greater United States. Random House. Introduction, pp. 3-19.
+  
+  Beckert, Sven. 2017. “American Danger: United States Empire, Eurafrica, and the Territorialization of Industrial Capitalism, 1870–1950.” American Historical Review 122: 1137-1170.
+  
+  Myers, Ramon Hawley, and Mark R. Peattie (eds.) 1984. The Japanese Colonial Empire, 1895-1945. Princeton University Press. “Introduction,” pp. 3-52.
+
+### Part III How Empires End
+
+### Week 9—Empire to Nations in the 19th Century?
+  Tilly, Charles. 1990. Coercion, Capital, and European State. Blackwell. Pp. 20-33, 38-47, 91-95. 
+  
+  Anderson, Benedict. 1991. Imagined Communities: Reflections on the Origin and Spread of Nationalism. London: Verso. Chapter 6, “Official Nationalism and Imperialism,” pp. 83-112.
+  
+  Kumar, Krishan. 2010. “Nation-States as Empires, Empires as Nation-States: Two Principles, One Practice?” Theory and Society 39: 119-143.
+  
+  Conrad, Sebastian. 2022. “Empire and Nationalism,” The American Historical Review 127(1): 327-332.
+  
+### Week 10—Empire, War, and Revolution
+
+  Burbank and Cooper. Chapter 12, “War and Revolution in a World of Empires: 1914-1945,” pp. 369-412.
+  
+  DuBois, W. E. B. 1915. “The African Roots of the War.” Atlantic Monthly 115(May): 707-714.
+
+  Martin, Terry Dean. 2001. The Affirmative Action Empire: Nations and Nationalism in the Soviet Union, 1923-1939. Cornell University Press. Chapter 1, “The Soviet Affirmative Action Empire,” pp. 1-27.
+
+  Esherick, Joseph, Hasan Kayalı, and Eric Van Young, eds. 2006. Empire to Nation: Historical Perspectives on the Making of the Modern World. Rowman & Littlefield. Chapter 8, “How the Qing Became China,” pp. 229-259.
+
+### Week 11—Decolonization in the 20th Century
+
+  Burbank and Cooper. Chapter 13, “End of Empire?” Pp. 413-442.
+
+  Jansen, Jan C., and Jürgen Osterhammel. 2017. Decolonization: A Short History. Princeton University Press. Chapter 1, “Decolonization as Moments and Process,” pp. 1-34.
+  
+  Manela, Erez. 2007. The Wilsonian Moment: Self-Determination and the International Origins of Anticolonial Nationalism. Oxford University Press. “Introduction: A Spring of Upheaval,” pp. 3-13.
+  
+  Getachew, Adom. 2019. Worldmaking after Empire: The Rise and Fall of Self-determination. Princeton University Press. Chapter 3, “From Principle to Right: The Anticolonial Reinvention of Self-Determination,” pp. 71-106.
+
+## Part IV Colonial Legacies and Imperial Revival
+
+## Week 12—Colonial Legacies and Post-Colonial Critiques
+  
+  Cumings, Bruce. 2002. Parallax Visions: Making Sense of American-East Asian Relations. Duke University Press. Chapter 3, “Colonial Formation and Deformation: Korea, Taiwan, and Vietnam,” pp. 69-94.
+  
+  Mamdani, Mahmood. 2001. When Victims Become Killers: Colonialism, Nativism, and the Genocide in Rwanda. Princeton University Press. Chapter 3, “The Racialization of the Hutu/Tutsi Difference under Colonialism,” pp. 76-102.
+  
+  Fanon, Frantz. 1963. The Wretched of the Earth. New York: Grove Press. Chapter 1, “On Violence,” pp. 1-51.
+  
+  Said, Edward. 1979. Orientalism. New York: Vintage. Introduction, pp. 1-28.
+
+### Week 13—The American Empire in the New Century
+
+  Ferguson, Niall. 2004. Colossus: The Rise and Fall of the American Empire. New York: The Penguin Books. Chapter 5, “The Case for Liberal Empire,” pp. 169-199.
+
+  Johnson, Chalmers. 2004. The Sorrows of Empire: Militarism, Secrecy, and the End of the Republic. Macmillan. Chapter 6, “The Empire of Bases,” pp. 151-186.
+  
+  Mann, Michael. 2013. The Sources of Social Power, vol. 4: Globalization, 1945-2011. Chapter 10, “American Empire at the Turn of the Twenty-First Century,” pp. 268-321.
+  
+  Lachmann, Richard. 2020. First Class Passengers on a Sinking Ship: Elite Politics and the Decline of Great Powers. Verso. Chapter 8, “The American Economy: Financial Cannibalization.” 
+  
+### Week 14—A New Chinese Empire?
+
+  Shue, Vivienne. 2018. “Party-State, Nation, Empire: Rethinking the Grammar of Chinese Governance.” Journal of Chinese Governance 3: 268-291.
+
+  Fiskejo, Magnus. 2006. “Rescuing the Empire: Chinese Nation-Building in the Twentieth Century.” European Journal of East Asian Studies 5: 15-44.
+  
+  Kaplan, Robert D. 2014. Asia’s Cauldron: The South China Sea and the End of a Stable Pacific. Random House. Chapter 2, “China’s Caribbean,” pp. 32-50.
+  
+  Hung, Ho-fung. 2022. Clash of Empires: From ‘Chimerica’ to the ‘New Cold War’. Cambridge University Press. Chapter 4 “Spheres of Influences.” 
