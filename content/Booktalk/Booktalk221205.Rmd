@@ -1,6 +1,6 @@
 ---
 title: "时间社有书斋 ｜与孔诰锋对谈《帝国的冲突》（附视频）"
-author: "yimang"
+author: "时间社"
 date: "2022-12-05"
 output: html_document
 thumbnail: "img/poster221205.png"
