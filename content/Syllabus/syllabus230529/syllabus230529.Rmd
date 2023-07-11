@@ -1,0 +1,266 @@
+---
+title: "时间社课纲｜俄亥俄州立大学张颖：中美关系与中国妇女"
+author: "THiS"
+date: "2023-05-29"
+output: html_document
+thumbnail: "img/zhangying.png"
+categories: ["课纲-Syllabus"]
+tags: ["课纲-Syllabus","性别-Gender", "历史-History"]
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/img/logo1.png)
+
+### 课程介绍
+
+自2022年2月成立以来，时间社THiS（Theory, History, Society）致力于推动历史社会科学和社会理论的思考、实践与对话。今年暑假，我们推出时间社课纲系列，定期授权分享社会理论与方法实践、历史学与社会科学交叉领域的相关课程教纲，供有兴趣的朋友参考。推出这个栏目，既是知识和经验的分享，也缘于教中学的理念。我们希望借此获取对课程设计的反馈，欢迎大家在评论区留言，提出建议或问题，也殷切期盼学界同好联系我们，在本公号发布相关课程大纲。
+
+联系邮箱：shijianshe2022@gmail.com
+
+
+### 《中美关系与中国妇女》课程介绍 Women and Gender in Chinese History: Sino-U.S. Connections
+
+#### 课程简介Course Overview
+
+本课程为中级本科课程，主要涵盖十九世纪中期至二十世纪中期，在中美关系的大背景之下回顾中国妇女发展史，以及从性别的角度思考中美关系的多面性与复杂性。在外交、战争、宗教、教育、经济、文化等各个方面，中国与美国各自经历了重大变化，两国政府及非政府的关联极为密切。人流、物流、思想的频繁往来，造就了新机会，也导致了新摩擦。那么妇女史与中美关系史之间是如何互动的？本课程着重探讨中国妇女的历程，也会涉及到现代美国妇女的变化。
+
+
+
+课程形式：混合式课程，50%线上，50%线下。Hybrid混合式学习有利于学生自主、自律地安排学习时间，最大限度发挥线上、线下不同学习方式的优势。
+
+
+
+This course explores Chinese women’s and gender history by situating it in the interactions between China and the United States in the 19th and 20th centuries. Both countries went through drastic changes as they developed official and unofficial ties during this period. People, ideas, and things moved between these two countries across the Pacific. These movements resulted in new discoveries, exciting collaborations, and frictions. The course will introduce premodern Chinese gender ideals and practices before the era of Sino-U.S. entanglement. It explores how these ideals and practices traveled, encountered challenges, adapted, and changed in the cultural, educational, economic, political, and religious interactions between the two countries. We will focus on Chinese women in China and in the U.S., but American women will figure prominently in the course material as well.
+
+
+
+In each learning module, you will interact with the instructor and your classmates both online and in person. The hybrid format gives you much flexibility and deeper learning experience. It also requires significant self-discipline and time management ability.
+
+#### 课程材料Course Materials
+
+Required book: Dorothy Ko, Every Step a Lotus: Shoes for Bound Feet (The Beta Shoe Museum & University of California Press, 2001)
+
+Readings available on Carmen Canvas, library e-books, and digital collections
+
+### 授课教授
+
+张 颖: 俄亥俄州立大学历史系副教授 & 俄亥俄州立大学中国研究中心主任。密西根大学历史与性别研究联合博士(Ph.D.)，现任美国俄亥俄州立大学历史系副教授，兼俄亥俄州立大学中国研究中心主任。研究兴趣包括明史，政治史，性别史。主要著作包括英文专著《儒家形象政治：明清之际的男性道德观》（Confucian Image Politics: Masculine Morality in Seventeenth-Century China）（华盛顿大学出版社2016年）以及《宗教与明代狱中的艺术》 （Religion and Prison Art in Ming China (1368-1644): Creative Environment, Creative Subjects）（荷兰博睿（Brill）出版社2020年），以及合编《男性研究》（上海三联出版社2012年）
+
+![](/img/logo2.png)
+
+### 中美关系与中国妇女
+
+#### 第1周：Introduction 课程介绍
+
+#### 第2周：“中国女性”：迷思与事实 “Chinese Women:” Myths and Facts
+
+**Goals**: 
+  
+  1) background knowledge in the history of Sino-US relations; 
+  
+  2) historical research skills (digital archives; analysis)
+
+**Readings**: Nayan Shah, ch. 3 “Perversity, Contamination, and the Dangers of Queer Domesticity,” Contagious Divides: Epidemics and Race in San Francesco’s Chinatown (University of California Press, 2001), pp. 77-104.
+
+**Exercise** with Encyclopedia of Chinese-American Relations [electronic resource]
+
+**Discussion** on historical sources: Selected material in the Wason Pamphlet Collection at Cornell University
+
+➤“Chinatown declared a nuisance!” (1880) (read Introduction and “Resolution of Condemnation Adopted”, pp. 1-6)
+
+➤“The Chinese problem” (1876) (read Part IV. The Chinese and Morals)
+
+
+Think about what you have read in Shah\'s article and how it draws on these documents. Then answer the question: How did these two documents interpret the Chinese morals differently?
+
+#### 第3周：缠足与反缠足（1） Footbinding and Anti-footbinding I
+
+**Goals**: 
+
+  1) learning about one of the most important and complex topics in Chinese women’s history and Sino-U.S. relations; 
+
+  2) appreciating different types of historical sources (textual, visual, material) 
+
+**Reading**: Ko, Every Step a Lotus
+
+**Screening**: Small Happiness (documentary)
+
+https://www.youtube.com/watch?v=DeUclPA42Vk
+
+#### 第4周：缠足与反缠足（2） Footbinding and Anti-footbinding II
+
+**Goals**: 
+
+  1) learning how scholars study the same topic from different perspectives with different sources; 
+
+  2) learning how to synthesize scholarly research; 
+
+  3) working with the instructor on reading efficiency
+
+**Readings**:
+
+➤ Alison Drucker, “The Influence of Western Women on the Anti-Footbinding Movement, 1840-1911,” in Richard Guisso and Stanley Joannesen eds., Women in China: Current Direction in Historical Scholarship (1981), pp. 179-199.
+
+➤ Patricia Ebrey, “Gender and Sinology: Shifting Western Interpretations of Footbinding, 1300–1890.” Late Imperial China Vol. 20, No. 2 (December 1999): 1–34.
+
+➤ Bossen et al., “Feet and Fabrication: Footbinding and Early Twentieth-Century Rural Women’s Labor in Shaanxi.” Modern China 37:4 (2011): 347-383.
+
+**Exercise**: Online Discussion
+
+**Read** the selected report published in the Women's Missionary Magazine, and discuss:
+  
+  1) Who published this magazine? In this report, how are missionary accomplishments in China described?
+  
+  2) Where does the report mention "footbinding" or "anti-footbinding"? Please identify all of them.
+
+  3) Does this document support the analysis by Drucker in her article?
+  
+#### 第5周：缠足与反缠足（3）Footbinding and Anti-footbinding III
+
+**Readings**: Connie Shemo, “Only Too Glad to Draw Attention from Our Feet,” in The Chinese Medical Ministries of Kang Cheng and Shi Meiyu, 1872-1937: On a Cross-Cultural Frontier of Gender, Rae, and Nation (Lehigh UP, 2011), pp. 17-42.
+
+Historical sources: 
+  
+  1) American missionary report analysis; 
+
+  2) selected material by educated men from Lydia Liu et al., The Birth of Chinese Feminism: Essential Texts in Transnational Theory (Liang Qichao, “On Women’s Education” and Jin Tianhe, Part 3 of “The Women’s Bell”)
+
+ArcGIS StoryMap exercise with Shemo 
+
+Begin teamwork on the PowerPoint project 
+
+#### 第6周：新文化与新理想 New Culture, New Aspirations 
+
+(no class meeting; teamwork week) 
+
+**Goals**: 
+  
+  1) understanding the key issues debated by the Chinese about oppressions in family and society; 
+
+  2) understanding the Chinese activists’ reactions to the competing ideals and choices presented by Europe, Japan, and the U.S. in the early 20th c.
+
+**Readings**: Selected essays by He-Yin Zhen, Lydia Liu et al., The Birth of Chinese Feminism: Essential Texts in Transnational Theory
+
+**Exercise**: Short Analysis
+
+This week you read about He-Yin Zhen and early Chinese feminism. The "Historical Context" explains the historical background, and the two essays ("On the question of women's labor" and "Economic revolution and women's revolution") by He-Yin Zhen show her main concerns and arguments. How did He-Yin Zhen's understanding and knowledge of women's issues in the U.S. shape her goals for Chinese women's liberation? Please cite specific examples from both essays to substantiate your analysis.
+
+#### 第7周：教育 Education
+
+**Goals**: 
+
+1) understanding the traditional gendered model of education and its limitations; 
+
+2) Understanding various opportunities for Chinese women under the influence of the U.S.
+
+**Readings**:
+
+➤Dorothy Ko, “Pursuing Talent and Virtue: Education and Women’s Culture in Seventeenth- and Eighteenth-Century China.” Late Imperial China 13:1 (June 1992): 9-39.
+
+➤Weili Ye, “Nu Liuxuesheng: The Story of American-Educated Chinese Women, 1880s-1920s.” Modern China (Jul., 1994): 315-346.
+
+**Exercises**:
+
+1) Look up Chinese women students in Wellesley College in 1900-1949 period in the Wellesley College database. Create a StoryMap to show each of these women's essential biographical information. Make sure to include a paragraph as your conclusion/summary of your main observations based on this research.
+
+2) Short analysis: After you have read Ko and Ye's articles, on women's education, answer these questions: How would you describe the changes and continuity in the ideal female virtues from premodern to modern times? What made changes possible? Be specific in your analysis.
+
+#### 第8周：“新女性”
+
+The New Woman 
+
+**Goals**: 
+  
+  1) appreciating the different ideas of “New Woman” in China and the U.S.; 
+
+  2) understanding the opportunities and struggles of the New Woman in these two countries
+
+**Readings**:
+  
+  ➤Motoe Sasaki, ch. 1 “New Women in the Civilizing Mission” & ch. 3 “United States Internationalism and Chinese Modernity,” in Redemption and Revolution: American and Chinese New Women in the Early Twentieth Century (Cornell University Press, 2016), pp. 15-54; 85-110
+
+  ➤Joshua Hubbard, “Queering the New Woman: Ideals of Modern Femininity in The Ladies’ Journal, 1915-1931.” Nan Nu 16:2 (2014): 341-362. 
+
+**Exercise**: Online Discussion
+
+This week, you read Joshua Hubbard's article based on his research with a major Chinese women's magazine, the Ladies' Journal. This journal is one of those archived digitally by the University of Heidelberg (Germany). Let's do a simple exercise with the magazine, Funü shibao (The Women's Eastern Times). Please read its basic information first and browse the digitalized issues. Please find an image from any one of the issues of the Women's Eastern Times and talk about how it speaks to Hubbard's analysis of the Chinese New Woman in the early twentieth century. Please include the image, the issue number and year, and your brief discussion.
+
+#### 第9周：女性与革命 March 8 Women and Revolution 
+
+**Goals**:
+
+  1) appreciating Chinese and American women’s different attitudes toward women’s political participation; 
+
+  2) comparing different documentations  
+
+**Readings**: 
+
+  Sasaki, ch. 4 “Awash in the Storm of National Revolution,” Redemption and Revolution, pp. 111-132.
+
+**Historical sources**:
+
+  1) Selected writings by Agnes Smedley, Portraits of Chinese Women in Revolution; 
+
+  2) Xie Bingying, A Woman Soldier's Own Story 
+                                                                                                                                  **Exercise**: Short Analysis
+                                                                                                                                  How would Chinese women such as Xie Bingying and those documented by Smedley react to the American women in China at the time of national revolution? Please try to be specific in your analysis by drawing on both Sasaki and historical sources.
+
+#### 第10周：Spring Break
+
+#### 第11周：PowerPoint presentation of teamwork
+
+#### 第12周：生育 Reproduction
+**Goals**: 
+  
+  1) learning about key players in the debates and reforms of reproduction in China; 
+
+  2) appreciating the complexity of these debates in a transnational context
+
+**Readings**:
+  
+➤Mirela David, “The Task is Hers: Going Global, Margaret Sanger’s Visit to China in 1922.” Asia Pacific Perspectives 14:1 (2016): 76-99
+
+➤Tina Johnson, “The Politics of Reproductive Health in Twentieth-Century China,” in NAN NU: Men, Women & Gender in Early & Imperial China (2020) Vol. 22 Issue 2: pp. 342-374.
+
+**Exercise**: Short Analysis
+
+This week, we read two articles on Chinese women's reproductive health, which was shaped by many American efforts--by individuals and institutions--in the first half of the 20th century. You also read a historical source, a speech by Margaret Sanger in 1922. 
+
+  1) How did Sanger describe the problems of Chinese women's reproduction? Why did she think Americans should care?
+  
+  2) David's analysis of Sanger's visit to China and Johnson's analysis of Dr. Lin Qiaozhi show how Chinese intellectuals reacted to American influences in reproductive medicine. Use examples from these two articles to summarize the Chinese reactions and adaptions.
+
+#### 第13周：“摩登女郎” The Modern Girl 
+
+**Readings**:
+
+➤Louise Edwards, ch. 2 “A Modern-Footed Person Claiming Public Space,” Citizens of Beauty: Drawing Democratic Dreams in Republican China (University of Washington Press, 2020), pp. 68-92.
+
+➤Madelaine Dong, “Who is Afraid of the Chinese Modern Girl?,” in Modern Girl around the World (University of Washington press, 2008), pp. 194-216.
+
+**Exercise**: Screening and Online Discussion
+
+On the website Chinese Film Classics (early Chinese films), find "Sports Queen" (silence film, 80 minutes, 1934) and watch it after you have read the readings. When you watch the movie, think about how it illustrates the topics explored by the two readings. In this discussion, please briefly analyze 3 details in the movie to answer this question: where does the female protagonist Lin Ying show the ideal qualities of the New Woman in the Republic of China? Where does she appear to represent the less ideal Modern Girl?
+
+#### 第14周：性 Sexuality
+
+**Readings**:
+
+➤Peter Carroll, “A Problem of Glands and Secretions: Female Criminality, Murder, and Sexuality in Republican China,” Sexuality in China: Histories of Power and Pleasure (University of Washington Press, 2018), pp. 24-36.
+
+➤Zach Fredman, “GIs and ‘Jeep Girls’: Sex and American Soldiers in Wartime China.” Journal of Modern Chinese History 13:1 (2019): 76-101.
+
+**Historical source**: U.S. Air Force pamphlet
+
+Meeting with instructor and working on final paper
+
+#### 第15周：“英雄” Heroes and Heroines 
+
+**Readings**:
+
+➤Alan Baumler, “Masculinity, Femininity, Sacrifice, and Celebrity during China's War of Resistance: Telling the Lives of the Aviators Yan Haiwen (1916-37) and Lee Ya-Ching (1912-98),” NAN NU: Men, Women & Gender in Early & Imperial China (2020) Vol. 22 Issue 1: pp. 70-115.
+
+➤Nicola, Spakowski, “Yan'an's Labor Heroines and the Birth of the Women of New China,” NAN NU: Men, Women & Gender in Early & Imperial China (2020) Vol. 22 Issue 1: pp. 116-149.
