@@ -1,0 +1,143 @@
+---
+title: "时间社课纲｜多伦多大学刘思达：当代社会学理论"
+author: "THiS"
+date: "2023-07-04"
+output: html_document
+thumbnail: "img/liusida.jpeg"
+categories: ["课纲-Syllabus"]
+tags: ["课纲-Syllabus","理论-Theory"]
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/img/logo1.png)
+
+### 系列介绍
+
+自2022年2月成立以来，时间社THiS（Theory, History, Society）致力于推动历史社会科学和社会理论的思考、实践与对话。今年暑假，我们推出时间社课纲系列，定期授权分享社会理论与方法实践、历史学与社会科学交叉领域的相关课程教纲，供有兴趣的朋友参考。推出这个栏目，既是知识和经验的分享，也缘于教中学的理念。我们希望借此获取对课程设计的反馈，欢迎大家在评论区留言，提出建议或问题，也殷切期盼学界同好联系我们，在本公号发布相关课程大纲。
+
+联系邮箱：shijianshe2022@gmail.com
+
+### 当代社会学理论课程介绍
+
+#### 课程介绍 Course Description
+
+这门课为多伦多大学社会学系研究生课程，旨在介绍当代社会学理论。课程内容不会涵盖当代社会学的所有主要理论，而是聚焦于几个社会学传统，让学生有机会探索理解社会的不同理论方法。本课程的目标不仅是将学生培养成为社会学理论的消费者，而是成为生产者。因此，本课程规划了高强度的写作与阅读任务。在学期内不但需要进行深入阅读和有思考深度的写作，而且要运用社会学想象力对源自不同时间和地域的社会理论家进行批判与反思。
+
+#### 阅读材料 Readings
+
+本课程的阅读材料包括数本书籍、多篇期刊文章以及一个介绍性读本：Social Theory: Twenty Introductory Lectures (by Hans Joas and Wolfgang Knöbl, Cambridge University Press, 2009)。这个读本将作为本课程的学习指南。
+
+#### 授课教授
+
+刘思达，1980年生于北京，芝加哥大学社会学博士，北京大学法学学士。现任香港大学法律学院教授、社会学系礼任教授，曾任教于多伦多大学和威斯康星大学麦迪逊分校。主要研究方向为法律社会学、职业社会学、社会学理论，多年来一直致力于关于中国法律职业的实证研究，并从事关于法律、职业、社会空间等理论问题的研究和写作。曾在《中国社会科学》《社会学研究》《法学研究》、American Journal of Sociology、Sociological Theory、Law & Society Review、China Quarterly等主要学术期刊上发表过数十篇中英文论文，并著有《失落的城邦：当代中国法律职业变迁》（北京大学出版社2008年版）、《割据的逻辑：中国法律服务市场的生态分析》（上海三联书店2011年版）、Criminal Defense in China: The Politics of Lawyers at Work（剑桥大学出版社2016年版）、The Asian Law and Society Reader（剑桥大学出版社2023年版）等学术著作。
+
+![](/img/logo2.png)
+
+### 当代社会学理论 Contemporary Sociological Theory
+
+#### 第1周：什么是理论？What Is Theory? 
+
+➤ Joas, Hans, and Wolfgang Knöbl. 2009. “What Is Theory?” Social Theory: Twenty Introductory Lectures (hereinafter “ST”). Cambridge: Cambridge University Press. Chapter 1, pp. 1-19. 
+
+➤ Levine, Donald N. 1997. “Social Theory as a Vocation.” Perspectives 19(2): 1-16. 
+
+➤ Krause, Monika. 2016. “The Meanings of Theorizing.” British Journal of Sociology 67: 23-29.
+
+#### 第2周：功能与系统 Function and System
+
+➤ST, Chapters 2-4, 11, pp. 20-93, 249-280. 
+
+➤Luhmann, Niklas. 1995. “System and Function.” Chapter 1, pp. 12-58 in Social Systems. Stanford, CA: Stanford University Press. 
+
+#### 第3周：结构与能动性 Structure and Agency
+
+➤ST, Chapters 12 and 14, pp. 281-307, 339-370. 
+
+➤Sewell, William H. Jr. 1992. “A Theory of Structure: Duality, Agency, and Transformation.” American Journal of Sociology 98: 1-29.
+
+➤Emirbayer, Mustafa, and Ann Mische. 1998. “What Is Agency?” American Journal of Sociology 103: 962-1023.
+
+➤Fuchs, Stephan. 2001. “Beyond Agency.” Sociological Theory 19: 24-40. 
+
+#### 第4周：互动与社会情境 Interaction and Social Situation
+
+➤ ST, Chapter 6, pp. 123-149. 
+
+➤ Goffman, Erving. [1961] 2017. Asylums: Essays on the Social Situation of Mental Patients and Other Inmates. New York: Routledge.
+
+#### 第5周：因果性与时间性 Causality and Temporality
+
+➤Abbott, Andrew. 1988. “Transcending General Linear Reality.” Sociological Theory 6: 169-186.
+
+➤Abbott, Andrew. 1998. “The Causal Devolution.” Sociological Methods & Research 27: 148-181.
+
+➤Abbott, Andrew. 2005. “Linked Ecologies.” Sociological Theory 23: 245-274.
+
+➤Abbott, Andrew. 2007. “Against Narrative: A Preface to Lyrical Sociology." Sociological Theory 25: 67-99.
+
+➤Sewell, William H. Jr. 2005. “Three Temporalities: Toward an Eventful Sociology.” Pp. 81-123 in Logics of History. Chicago: University of Chicago Press. 
+
+#### 第6周：场域与惯习 Field and Habitus
+
+➤ST, Chapter 15, pp. 371-400. 
+
+➤Bourdieu, Pierre. 1984. Distinction: A Social Critique of the Judgement of Taste. Cambridge, MA: Harvard University Press. 
+
+➤Martin, John Levi. 2003. “What Is Field Theory?” American Journal of Sociology 109: 1-49.
+
+#### 第7周：实用主义与关系社会学 Pragmatism and Relational Sociology
+
+➤ST, Chapter 19, pp. 500-528. 
+
+➤Emirbayer, Mustafa. 1997. “Manifesto for a Relational Sociology.” American Journal of Sociology 103: 281-317. 
+
+➤Emirbayer, Mustafa, and Chad Alan Goldberg. 2005. “Pragmatism, Bourdieu, and Collective Emotions in Contentious Politics.” Theory and Society 34: 469-518.
+
+➤Gross, Neil. 2009. “A Pragmatist Theory of Social Mechanisms.” American Sociological Review 74: 358-379. 
+
+➤Liu, Sida, and Mustafa Emirbayer. 2016. “Field and Ecology.” Sociological Theory 34: 62-79.
+
+#### 第8周：交换与权力 Exchange and Power
+
+➤ST, Chapter 5, pp. 94-122. 
+
+➤Blau, Peter. [1964] 2017. Exchange and Power in Social Life. New York: Routledge. 
+
+#### 第9周：网络与资本 Network and Capital
+
+➤Coleman, James S. 1988. “Social Capital in the Creation of Human Capital.” American Journal of Sociology 94: S95-S120.
+
+➤Burt, Ronald S. 1997. “The Contingent Value of Social Capital.” Administrative Science Quarterly 42: 339-365.
+
+➤Lin, Nan. 1999. “Building a Network Theory of Social Capital.” Connections 22(1): 28-51.
+
+➤Erikson, Emily. 2013. “Formalist and Relationalist Theory in Social Network Analysis.” Sociological Theory 31: 219-242. 
+
+➤Bourdieu, Pierre. 2013. “Symbolic Capital and Social Classes.” Journal of Classical Sociology 13: 292-302.
+
+#### 第10周：规训与惩罚 Discipline and Punish
+
+➤Foucault, Michel. 1979. Discipline and Punish: The Birth of the Prison. New York: Vintage Books.
+
+#### 第11周：女性主义与交叉性 Feminism and Intersectionality
+
+➤ST, Chapter 17, pp. 432-462. 
+
+➤Collins, Patricia Hill. 1986. “Learning from the Outsider within: The Sociological Significance of Black Feminist Thought.” Social Problems 33: s14-s32. 
+
+➤Haraway, Donna. 1988. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” Feminist Studies 14: 575-599.
+
+➤Crenshaw, Kimberlé. 1989. “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.” University of Chicago Legal Forum 1989: 139-167.
+
+➤Choo, Hae Yeon, and Myra Marx Ferree. 2010. “Practicing Intersectionality in Sociological Research: A Critical Analysis of Inclusions, Interactions, and Institutions in the Study of Inequalities." Sociological Theory 28: 129-149. 
+
+#### 第12周：后现代性与后殖民主义 Postmodernity and Postcolonialism
+
+➤ST, Chapter 18, pp. 463-499. 
+
+➤Bauman, Zygmunt. 2000. Liquid Modernity. Cambridge: Polity.
+
+➤Go, Julian. 2013. “For a Postcolonial Sociology.” Theory and Society 42: 25-55.
