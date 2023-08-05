@@ -4,15 +4,28 @@ author: "时间社"
 date: "2022-11-06"
 output: html_document
 ---
-## 时间社有书斋｜Clash of Empires by Ho fung Hung 
+
+## 时间社有书斋｜George Steinmetz, The Colonial Origins of Modern Social Thought
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VwYl_eQOfLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+## 时间社有书斋｜与周雪光对谈《中国的治理逻辑》
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sh-rOPtDl4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+
+## 时间社有书斋｜Ho fung Hung, Clash of Empires
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yly7MtGCwi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </center>
 
-
-## 时间社“有书斋 ”之一：与赵鼎新对谈《儒法国家》裁剪版
+## 时间社有书斋｜与赵鼎新对谈《儒法国家》(裁剪版)
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i4eF6Oud_I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,7 +50,6 @@ document.getElementById("test").style.height=document.getElementById("test").scr
 </center>
 
 ## 时间社讲坛视频 | 布洛维谈杜波依斯和社会理论经典
-
 
 <center>
 <iframe  width="560" height="315" frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=a3336bdm4pr" allowFullScreen="true"></iframe>
