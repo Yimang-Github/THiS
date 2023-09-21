@@ -29,6 +29,14 @@ Moderator: **Yan Long**, Department of Sociology, University of California, Berk
 
 Time: September 27th, 8:00 PM Eastern Time in the United States (September 28th, 8:00 AM Beijing Time)
 
+### Abstract
+
+"Over the past two decades, Chinese diasporas have become increasingly important in China's strategies for global ascendancy. Beijing designates diaspora elites as â€œgrassroots ambassadorsâ€ to promote Chinaâ€™s national interests abroad, enhance Chinese ethnic communities, and suppress Ã©migrÃ© dissidents. These homeland-diaspora ties, however, push Chinese migrants to the center of Sino-West tensions, rendering them victims of rising Sinophobic sentiment and anti-China discrimination. Between Chinese politicization and Western suspicions, what is missing are the lived experiences and agential practices of Chinese migrants and ethnographic insights into the actual effectiveness of China's diaspora governance.
+
+Drawing on interviews and ethnographic data, collected in two years of fieldwork in China and Europe, this book argues that China's diaspora politics do not lead to unidirectional domination by the homeland but rather produce dynamic state-diaspora interactions and negotiations across borders. I conceptualize this process as transborder state-building, defined as the bureaucratic, technological, and discursive mechanisms of extending and challenging the state's institutional capacity and symbolic legitimacy beyond state boundaries. Following the neo-Weberian institutional approach in political sociology, I expand the scope of research on state-building to cross-border domains and delves into the making and remaking of transborder states and how they interact with emigrant citizens in foreign soil.
+
+I argue that a relational political ethnography, which pays closer attention to the mundane struggles of grassroots actors than the macro-level high politics, holds the key to understanding the real-world impacts of Global China. Transborder state-building is a complex process that involves a plethora of actors, including the central Chinese leadership, local officials, diaspora leaders, and rank-and-file migrants, whose cross-border interplay and contestations produce complex outcomes of Global China. To transcend superficial knowledge of China's overseas outreach based on oft-exaggerated policy data, I uncover its operational specificities and everyday workings by identifying three channels through which China generates and sustains transborder state-building: diaspora associations, digital technologies, and political discourses. I demonstrate that far from being a uniform or absolute expansionist project, China's transborder state-building is shaped by the robust agency of grassroots actors and fraught with internal inconsistencies within the Chinese bureaucracy and Western host societies."
+
 ## October Workshop
 
 **Title: Revolution as the Easy Way Out: Discursive Competition and Elite Behavior Before the Xinhai Revolution**
@@ -40,6 +48,10 @@ Discussants: **Xiaowei Zheng**, Department of History, University of California,
 Moderator: **Bolun Zhang**, Department of Sociology, University of California, San Diego
 
 Time: October 25th, 8:00 PM Eastern Time in the United States (October 26th, 8:00 AM Beijing Time)
+
+### Abstract
+
+Following Sewell (1996) eventful sociology perspective, the openness and unpredictability inherent in major historical events have been at the center of historical sociology's research agenda. In moments of structural transformations, regime changes, and extensive ruptures, political actors make competing proposals for solving the pending crisis, giving rise to high-stake political contentions. The present paper focuses on one aspect of such conjunctures - the construction of and competition between discourses formulated by different political groups. It posits that in such times, discourses play an important role in interpreting the situation, articulating solutions, and legitimatizing claims to political power. Previous research has rarely systematically discussed how elites make discourses while they are themselves subjected to the immense uncertainty and openness, intense interaction and contention, and critical need for legitimacy that plague the conjuncture. Also overlooked in existing literature is how elite behavior is conditioned by the discourse they themselves produced. This paper presents an analysis of the construction of two discourses that dominated the public sphere from 1906 to the eve of the Xinhai Revolution in 1911 a constitutionalist discourse that focused on reform and democratization, and a revolutionary discourse that advocated for the overthrowing of the monarchy. The computer-assisted textual analysis shows how both discourses developed, changed, and diverged in interaction with and in response to each other, and how they conditioned the action of reformist and revolutionary elites. In the end, the two discourses had become distinctive and unrelated. When an unexpected uprising changed the broad situation to one that readily fitted into the revolutionary discourse, reformist elites lost their ability to act in a way consistent with their own discourse. In the end, the Revolution became â€œthe easy way out for these reformist elites as they tried to keep up with both the situation and their discourse.
 
 ## November Workshop
 
@@ -53,6 +65,10 @@ Moderator: **Yimang Zhou**, Department of Sociology, Renmin University of China
 
 Time: November 8th, 8:00 PM Eastern Time in the United States (November 9th, 9:00 AM Beijing Time)
 
+### Abstract
+
+Existing scholarship has largely agreed that connections between the state and social actors have significant influences on grassroots state capacity building, but the variation within state's embeddedness and its consequences are still in a black box. Drawing an ethnography of the Chinese Targeted Poverty Alleviation Campaign, this research examines how the state agents mobilized social forces for policy implementation by establishing multiplex state embeddedness into local society. this research identifies two types of state embeddedness at the grassroots level: transactional ties and transformational ties. The former refers to connections that change social actors' behaviors through external inducement, and the latter refers to those changing people's beliefs and values. Transformational embeddedness increases the commitment of multiple actors to collective goals and establishes a hierarchy with the state agents in the leadership position through two mechanisms: network locking and structural hole. It can also lead to two unintended consequences for the state power: first, it may replace the bureaucratic apparatus-based networks with interpersonal interaction-based networks as the capillary foundations of grassroots policy implementation; second, it can decouple the political vision designed at the top level from the organizational ideology created in practice. This research provides rich implications for understanding non-bureaucratic organizations spanning across state-society boundary and grassroots democracy under authoritarian regimes. 
+
 ## December Workshop
 
 **Title: Embedded Dilemma of Digital Visibility: Navigating Feminist Activism and State Violence in the New Media Era**
@@ -64,3 +80,7 @@ Discussants: **Guobin Yang**, Annenberg School for Communication and Department 
 Moderator: **Zhifan Luo**, Department of Sociology and Anthropology, Concordia University
 
 Time: December 20th, 8:00 PM Eastern Time in the United States (December 21st, 9:00 AM Beijing Time)
+
+### Abstract
+
+Digital feminist activism in the new media age has successfully mobilized younger generations to publicly challenge patriarchal values and practices and brought about significant changes in both activism strategies and advocacy focus. However, authoritarian regimes such as China strengthened their capacity not only to suppress and censor but also to fabricate and cultivate public expression to undermine feminist and queer activism. Against this background, this article shifts attention from the performative aspects of Chinese feminist activism post-2010 to a more in-depth understanding of feministsâ€™ tactical use of spaces and places in cultivating strong networks, open-ended movement structures, and digital technology-enabled and place-based activism strategies. I investigate the embedded dilemma of digital visibility confronting Chinese feminist activists, as their strategies require a high-profile online presence to draw public attention, yet their online presence makes them physically vulnerable to intensified state security scrutiny. My research findings will add to the discussion of how both activists and the general public use media and respond to media censorship and digital governance in authoritarian regimes. 
