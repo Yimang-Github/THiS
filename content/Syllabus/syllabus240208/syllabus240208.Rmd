@@ -1,5 +1,5 @@
 ---
-title: "时间社课纲｜黎恩：游戏与赌博里的中国历史"
+title: "时间社课纲｜达拉斯德州大学黎恩：游戏与赌博里的中国历史"
 author: "THiS"
 date: "2024-02-08"
 output: html_document
