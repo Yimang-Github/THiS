@@ -1,0 +1,221 @@
+---
+title: "时间社课纲｜黎恩：游戏与赌博里的中国历史"
+author: "THiS"
+date: "2024-02-08"
+output: html_document
+thumbnail: "img/lien.png"
+categories: ["课纲-Syllabus"]
+tags: ["课纲-Syllabus","历史-History"]
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](/img/logo1.png)
+
+### 系列介绍
+
+自2022年2月成立以来，时间社THiS（Theory, History, Society）致力于推动历史社会科学和社会理论的思考、实践与对话。今年暑假，我们推出时间社课纲系列，定期授权分享社会理论与方法实践、历史学与社会科学交叉领域的相关课程教纲，供有兴趣的朋友参考。推出这个栏目，既是知识和经验的分享，也缘于教中学的理念。我们希望借此获取对课程设计的反馈，欢迎大家在评论区留言，提出建议或问题，也殷切期盼学界同好联系我们，在本公号发布相关课程大纲。
+
+联系邮箱：shijianshe2022@gmail.com
+
+### 游戏和赌博里的中国历史
+
+#### 课程介绍 Course Description
+
+选修这门课的学生经常一跑进教室就先问：“今天我们要玩什么游戏？”
+
+玩游戏请去旁边游戏俱乐部哦。游戏和赌博是把学生吸引进来的噱头，这门课主要是探索博戏, 人, 和社会之间的关系。尤其是产生博戏的历史时代和社会背景，以及博戏对人的影响（好啦，我们是会有一节课打麻将）。因为博戏涉及的人物（妇女，小孩，不识字的人），和用以研究博戏的史料（各种图谱和游戏），希望从博戏这个角度看到不一样的中国历史：《婴戏图》里的小孩们，有过怎样的童年？《红楼梦》里的女性角色在行酒令时都在关心什么？明代商人如何从《长物志》里学习玩赏一只会背唐诗的鹦鹉从而实现阶层跃升？重大社会事件，例如科举考试，是否只和精英士子有关？移民为什么大多也是赌徒？为什么《色，戒》，《喜福会》和《摘金奇缘》里都有打麻将的情节？更重要的是，希望学生从博戏的角度重新认识自己，尤其是成功和运气的关系，以及在一个笃信优胜劣汰的社会里如何自洽，从而感受更圆融通达的历史观和人生态度。
+
+这门课是在美国大学历史系开设的选修课，从2013年开始曾在圣路易斯华盛顿大学，德雷克大学，和达拉斯德州大学开课。选课学生多为高年级本科生。课程分为两个主单元，第一单元关注中国游戏，第二单元探索中国游戏在海外的传播。时间跨度涵盖古代到当下。每星期选择分析一个具体案例。除了博戏里的中国历史，亦涉及哲学，文学，教育，法律，心理学，经济学概率，亚美文学和电影等领域。每周上课两小时四十五分钟，由课堂讨论，讲座和学生研究报告三部分组成。
+
+由于不要求修课学生具备中文基础和中国史知识，阅读材料暂未收入目前没有英文翻译的重要中文材料，例如原始史料（徐坷《清稗类钞》和金学诗《牧猪闲话》等），通史（戈春源《赌博史》和《中国近代赌博史》，郭双林和肖梅花《中国赌博史》，胡根《澳门近代博彩业史》，赖存理《中国博彩文化史论》，罗新本和许蓉生《中国古代赌博习俗》，鲁言《香港赌博史》等），和论文专著（何汉威和赵利峰关于闱姓的系列研究，张廷茂关于澳门番摊，卜永坚关于升官图和中国官制，陈熙远关于麻将，张宁关于近代上海的跑马，跑狗，和回力球赛等）。如果有机会用中文开课，比较中英文地区在研究兴趣和方法上的异同也会很有意义。
+
+为了进一步培养学生兴趣，第八周让学生角色扮演辩论太平天国后财政日渐紧张的清政府是否应该允许科举下注征收闱饷，第十二周会让学生学打麻将以感受游戏独特的声音和节奏。在史料方面，除了各种游戏图谱，会不时放映视频和纪录片，例如假古董的制作，87版《红楼梦》中“寿怡红群芳开夜宴“的片段，以及热门韩剧《黑暗荣耀》中关于围棋的独白等，以增加讨论的趣味。
+
+从2013年开课至今，在核心阅读之外，也适时收入新的研究成果作为扩展阅读，供学有余力的同学参考。
+
+除了每周的指定阅读篇目外，学生在学期初的四篇短作业中熟悉分析史料的方法和学术写作的范式，期末作业让学生自选相关题目写论文。同时强调研究是一个不断修改订正的过程，也鼓励学生互相提问切磋。所以除了The Essential Guide to Writing History Essays之外，会向学生推荐两本书，一是Joli Jansen的Write No Matter What (2017) 探讨写作的挑战，二是Wendy Laura Belcher的Writing Your Journal Article in Twelve Weeks (2019), 学习评价同侪作品，以及如何听取和吸纳他人的意见。今年秋天上课适逢拙作出版，除了讲课，也分享了自己写作研究过程中的秘辛。
+
+Games and gambling may be considered one of the most important forms of human play in the contemporary world. Think about yourself, what do you like to play and what does it say about you and the society that you are in? Yes, this is a course to explore games, and the world around those games.
+
+I intend to do three things in this course: first, to introduce students to Chinese history, society, and Chinese diasporas through the lens of games and gambling. Second, to encourage students to use the unique perspective of games and gambling to interpret the broader world around them. And third, to guide students to academic research and writing. As the author of the first English monograph about the history of lottery in China, I am excited to share what I know about Chinese games with the students, and more importantly, how to navigate academic writing and research (or in general, how to write when we are doing a million other things).
+
+This course covers from early periods, for example, how did philosophers such as Confucius make sense of games in 500BCE, to contemporary times, for example, how did “The Glory,” the No. 1 most-watched k-drama on Netflix in 2023 use the Japanese game “Go” to drive the plots forward.
+
+In this highly interdisciplinary course, we focus on China and overseas Chinese communities, with mentioning of comparable cases in Japan, Korea, Southeast Asia, Europe, and North America. We explore how games are discussed in the broader context of philosophy, education, gender roles, politics, sociology, religion, finance/mathematics/probabilities, Asian American studies and diasporas, psychology, literature, and film. Although this course has no prerequisite for students in terms of language and cultural background, it’s an intensive upper-level seminar with high expectations for undergraduate students in terms of reading and writing.
+
+#### 授课教授
+
+黎恩，美国圣路易斯华盛顿大学历史学博士，现任达拉斯德州大学历史系助理教授。研究兴趣是近现代中国社会文化史。著有 Betting on the Civil Service Examinations: The Lottery in Late Qing China (Harvard University Asia Center, 2023)。2021年德雷克大学艺术与科学学院年度优秀教师。在课堂上经常被问到古代桌游“升官图”上面到底写了什么，要怎么玩，所以正在写一本可以在美国课堂玩“升官图”和讲解中国官制的书。业余夏威夷舞者，对演出之后被问是不是夏威夷人感到汗颜，所以在写一本追溯1920年夏威夷舞传入中国的书（四代中国夏威夷舞女郎都没有去过夏威夷）。日常在德州想象和发现各种美食。
+
+![](/img/logo2.png)
+
+### 课程安排
+
+#### 第一周 导论 Week 1: Introduction
+
+➤ Antonova, Katherine Pickering. The Essential Guide to Writing History Essays. Oxford University Press, 2020. Chap 2, “What is Academic Writing?” Chap 3, “What is History?” and Chap 6, “The Short Analytical Essay.”
+
+**第一单元：博戏在中国 Unit One: Games and Gambling in Imperial China **
+
+#### 第二周 游戏的哲思Week 2: Gaming Philosophy 
+
+➤ Chin, Annping, trans. The Analects (论语). New York: Penguin Books, 2014 (selection).
+
+➤ Van Norden, Bryan W., trans. Mengzi: With Selections from Traditional Commentaries, with introduction and notes (孟子). Indianapolis: Hackett, 2008 (selection). 
+
+➤ Watson, Burton, trans. The Lotus Sutra (妙法莲华经). New York: Columbia University Press, 1993 (selection).
+
+➤ Watson, Burton, trans. Chuang Tzu: Basic Writings (庄子). New York: Columbia University Press, 1996 (selection).
+
+➤ Sutton-Smith, Brian. The Ambiguity of Play. Harvard University Press, 1997. “Play and Ambiguity,” 1-17. 
+
+➤ Essential Guide, Chap 4 “The Short-Answer Identification Essay.”
+
+#### 第三周 儿童游戏 Week 3: Children at Play
+
+➤ Hsiung, Ping-chen. A Tender Voyage: Children and Childhood in Late Imperial China. Stanford University Press, 2005. “4. Modes of Upbringing,” 103-128; “6. The Emotional World,” 156-183.
+
+➤ The Ambiguity of Play, “Rhetoric’s of Child Play,” 35-52. 
+
+➤ Essential Guide, Chap 9, “Primary Source Interpretation.” 
+
+扩展阅读：
+
+➤ Wicks, Ann Barrott, ed. Children in Chinese Art. University of Hawai’i Press, 2002. 
+
+#### 第四周 性别与游戏 Week 4: Women and Play 
+
+➤ A Tender Voyage, “7. Girlhood,” 183-220. 
+
+➤ Cao Xueqin. The Story of the Stone: Or, The Dream of the Red Chamber (红楼梦). Trans. David Hawkes. London: Penguin Classics, 1981. Chapter 63.
+
+➤ The Ambiguity of Play, “Rhetorics of Identity,” 91-111.
+
+➤ Essential Guide, Chap 7, “Imaginative Projects.”
+
+扩展阅读：
+
+➤ Wang, Jiayao. “The Drinking Game in The Dream of the Red Chamber: Divination, Prophecy, and Imitation.” International Journal of Divination & Prognostication 4 (2023): 44-78. 
+
+Screening:
+
+➤The Story of the Stone (87版红楼梦). Chapter 63 “寿怡红群芳开夜宴”
+
+#### 第五周 骨董的现代性 Week 5: Elites’ playthings 
+
+➤ Clunas, Craig. Superfluous Things: Material Culture and Society in Early Modern China. University of Hawai'i Press, 2004. 
+
+➤ The Ambiguity of Play, “Rhetorics of Self,” 173-201. 
+
+➤ Essential Guide, Chap 8, “Historiographic Essay.”
+
+扩展阅读：
+
+➤ Boretti, Valentina. “Purposeful Leisure: Aspects of Toy Discourse in Republican China.” The Princeton University Library Chronicle 68.3 (January 2007): 880-908.
+
+➤ Fernsebner, Susan R. “A People’s Plaything: Toys, Childhood, and Chinese Identity, 1909-1933.” Postcolonial Studies, vol. 6, no. 3 (2003): 269-293. 
+
+Screening:
+
+➤ "China: Faking it | 101 East” (26 mins)
+
+#### 第六周 升官图与中国官制 Week 6: Gaming the Officialdom #1, the “Game of Promotion” 
+
+➤Wu Ching-tzu, The Scholars. Rockville, MD: Silk Pagoda, 2008. “Chapter 3: Examiner Chou picks out true talent. Butcher Hu euts up rough after good news,” 32-47; “Appendix: The examination system and official ranks referred to in this novel,” 687-692.
+
+➤ Lo, Andrew. “Official Aspirations: Chinese Promotion Games,” in Asian Games: The Art of Contest, 64-75. 
+
+➤ The Ambiguity of Play, “Rhetorics of Imaginary,” 127-151. 
+
+➤ Essential Guide, Chap 11, “The Research Essay.”
+
+扩展阅读：
+
+➤Carnes, Mark C. Minds on Fire: How Role-Immersion Games Transform College. Cambridge, MA: Harvard University Press, 2018.
+
+#### 第七周 闱姓: 科举下注 Week 7: Gaming the Officialdom #2,“Surname Name Guessing”
+
+➤Li, En. Betting on the Civil Service Examinations: The Lottery in Late Qing China. Harvard University Asia Center, 2023. 
+
+➤The Ambiguity of Play, “Rhetorics of fate,” 52-74.
+
+扩展阅读：
+
+➤Jicai huigu: lao caipiao zhencang 集彩回顾: 老彩票珍藏, or História da taluda: bilhetes delotaria antigos e raros. Edited by Qiu Lifen 仇丽芬. Macao: Cultural and Recreation Service of the Civic and Municipal Affairs Bureau, 2007.
+
+#### 第八周 角色扮演辩论 Week 8: Whole-Class Role-Play Debate and Discussion 
+
+Debate:
+
+➤ Should the Qing state continue to license weixing after the 1885 lottery-related examination scandal? 
+
+#### 第九周 学生提交研究计划 
+
+Student Research Proposals Due
+
+** 第二单元 海外博戏  Unit Two: Games and Diasporas **
+
+### 第十周 移民的赌性 Week 10: Why Were Immigrants All Gamblers? 
+
+➤Heinz, Annelise. Mahjong: A Chinese Game and the Making of Modern American Culture. Oxford University Press, 2021.
+
+扩展阅读：
+
+➤ Culin, Steward. Gambling Games of the Chinese in America. University of Pennsylvania Series in Philology, Literature, and Archaeology 1 (4). 17pp.
+
+➤Paulès, Xavier.  “An illustration of China’s “paradoxical soft power: the dissemination of the gambling game fantan 番摊 by the Cantonese diaspora, 1850-1950.” Translocal Chinese: East Asian Perspectives, vol. 11, no. 2 (autumn 2017), 187-207.
+
+➤ Fickle, Tara. The Race Card: From Gaming Technologies to Model Minorities. New York: New York University Press, 2019.  
+
+Screening:
+
+➤ Documentary: “Mah-Jongg: The Tiles that Bind” (1999, 32 mins)
+
+Activity:
+
+➤ Game Time! A test play of mahjong in class 
+
+#### 第十一周 学生提交参考文献注释 
+
+Student Annotated Bibliographies Due 
+
+#### 第十二周 流行文化中的游戏 Week 12: How Does Popular Culture Utilize Gaming Elements? 
+
+➤ Tan, Amy. The Joy Luck Club (喜福会). New York: G. P. Putnam’s Sons, 1989.
+
+➤ Lee, Min Jin. Pachinko (柏青哥). Grand Central Publishing, 2017. 
+
+扩展阅读：
+
+➤ Fickle, Tara. “American Rules and Chinese Faces: The Games of Amy Tan’s ‘The Joy Luck Club.’” MELUS, vol. 39, no. 3 (FALL 2014), pp. 68-88. 
+
+➤ Li, En. "Betting Across Borders: A New Way to Read The Joy Luck Club and Other Immigrant Literature through the Window of Play." Recreation and Society in Africa, Asia and Latin America 7 (2019): 17-38. 
+
+Screening:
+
+➤ “Lust, Caution” 色, 戒 (2007)
+
+➤ “Crazy Rich Asians” 摘金奇緣 (2018)
+
+➤ “The Glory” 黑暗榮耀 (2022-2023)
+
+#### 第十三周 学生研究报告 
+
+Student Presentations in Class
+
+#### 第十四周 成功与运气  Week 14: Reflection: How Much Does Luck Matter in Success? 
+
+➤ Frank, Robert. Success and Luck: Good Fortune and the Myth of Meritocracy. Princeton University Press, 2017.
+
+➤ The Ambiguity of Play, “Conclusion,” 214-233.
+
+扩展阅读：
+
+➤ Howlett, Zachary M. Meritocracy and Its Discontents: Anxiety and the National College Entrance Exam in China. Ithaca, New York: Cornell University Press, 2021.
+
+#### 第十五周 学生提交研究论文  
+
+Week 15: Student Research Papers Due
