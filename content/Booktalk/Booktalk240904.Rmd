@@ -1,0 +1,50 @@
+---
+title: "时间社有书斋 ｜与华康德对谈Bourdieu in the City"
+author: "时间社"
+date: "2024-09-04"
+output: html_document
+thumbnail: "img/poster240904.jpeg"
+categories: ["有书斋-Booktalk"]
+tags: ["有书斋-Booktalk","理论-Theory"]
+---
+
+## THiS Book Boom Room
+
+### 与华康德对谈Bourdieu in the City
+
+This book panel will discuss Loïc Wacquant’s new book that offers a novel interpretation of Pierre Bourdieu as urban theorist. How do Bourdieu’s topological sociology give us the tools both to energize and challenge the canon of urban studies and to redraw their theoretical landscape? Three panelists will respond to this question drawing on their empirical studies situated in different continents.
+![](/img/logo1.png)
+
+### 作者/主谈人 (Author/Presenter)
+
+<center>
+![](/img/Wacquant.jpeg)
+</center>
+<br>
+
+**Loïc Wacquant:** Professor of Sociology at the University of California, Berkeley（加州大学伯克利分校社会学教授）
+
+### 与谈人（Discussants）
+
+**Marco Garrido:** University of Chicago
+
+**Eric Klinenberg:** New York University
+
+**Yue Zhang:** University of Illinois Chicago
+
+### 主持人 (Moderators)
+
+**Yan Long:** University of California, Berkeley
+**Fei Yan:** Tsinghua University
+
+### 时间 (Time)
+
+北京时间：2024年10月9日8:30   Beijing Time: October 9, 2024, 8:30 AM
+
+美东时间：2024年10月8日20:30    Eastern Time (US): October 8, 2024, 8:30 PM
+
+**Zoom Room:** 978-3632-6646
+
+### 工作语言 (Language)
+
+英语 (English)
