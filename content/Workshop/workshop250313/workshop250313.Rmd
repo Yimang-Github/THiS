@@ -7,14 +7,13 @@ tags: ["工作坊-Workshop"]
 thumbnail: "img/poster250313.jpg"
 ---
 
-
 ![](/img/logo1.png)
 
 WOCS is back!
 
-We are excited to announce THiS Workshop of Chinese Societies (WOCS) will hold a special workshop with Jack Jin Gary Lee from the New School of Social Research on March 13, 2025. 
+We are excited to announce THiS Workshop of Chinese Societies (WOCS) will hold a special workshop with Jack Jin Gary Lee from the New School of Social Research on March 13, 2025.
 
-THiS WOCS provides a virtual platform for scholars who use qualitative/mixed methods to study Chinese societies to present and discuss their ongoing projects. 
+THiS WOCS provides a virtual platform for scholars who use qualitative/mixed methods to study Chinese societies to present and discuss their ongoing projects.
 
 At THiS WOCS, we discuss research that advances the sociological understanding of contemporary & historical Chinese societies, broadly defined. We welcome presentations using ethnography, interview, comparative-historical methods, network analysis, computational methods, etc.
 
@@ -26,13 +25,13 @@ At THiS WOCS, we discuss research that advances the sociological understanding o
 
 Speaker: **Jack Jin Gary Lee**, Assistant Professor, The New School for Social Research
 
-Discussants: **Victoria Reyes**, Gender & Sexuality Studies Department, University of California Riverside; **George Radics**, Department of Sociology and Anthropology, National University of Singapore. 
+Discussants: **Victoria Reyes**, Gender & Sexuality Studies Department, University of California Riverside; **George Radics**, Department of Sociology and Anthropology, National University of Singapore.
 
 Moderator: **Yimang Zhou**, Department of Sociology, Renmin University of China.
 
 Time: March 13th, 8:00 PM (Eastern Time）/ March 14th, 8:00 AM (Beijing Time）
 
-Zoom Link: https://mcmaster.zoom.us/j/93192817950
+Zoom Link: <https://mcmaster.zoom.us/j/93192817950>
 
 ### Abstract
 
