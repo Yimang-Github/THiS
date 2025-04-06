@@ -1,5 +1,5 @@
 ---
-title: "时间社有书斋 ｜疾病政治 —— 国际关系对中国公共卫生系统的再造"
+title: "时间社有书斋｜再造疾病：跨国互动对中国公共卫生体系的影响"
 author: "时间社"
 date: "2025-04-04"
 output: html_document
@@ -12,7 +12,7 @@ tags: ["有书斋-Booktalk","理论-Theory"]
 
 ### 疾病政治 —— 国际关系对中国公共卫生系统的再造
 
-加州大学伯克利分校的龙彦教授主要从全球化视角出发，对健康医疗、行政组织、城市治理与科技发展等议题。她的学术成果曾荣获美国社会学学会颁发的七项最佳论文奖。其新著 Authoritarian Absorption: The Transnational Remaking of Epidemic Politics in China（牛津大学出版社，2024）以国际关系为切入点，分析中国国家在过去四十年间传染病治理能力的发展与演变过程。此次活动将邀请龙教授与四位来自政治学与社会学领域的学者展开一场跨学科对话，深入探讨国家、知识与跨国力量之间在疾病应对和管理中的复杂互动。
+加州大学伯克利分校的龙彦教授主要从全球化视角出发，研究健康医疗、行政组织、城市治理与科技发展等议题。她的学术成果曾荣获美国社会学学会颁发的七项最佳论文奖。其新著 Authoritarian Absorption: The Transnational Remaking of Epidemic Politics in China（牛津大学出版社，2024）以国际关系为切入点，分析中国国家在过去四十年间传染病治理能力的发展与演变过程。此次活动将邀请龙教授与四位来自政治学与社会学领域的学者展开一场跨学科对话，深入探讨国家、知识与跨国力量之间在疾病应对和管理中的复杂互动。
 ![](/img/logo1.png)
 
 ### 作者/主谈人 (Author/Presenter)
@@ -22,7 +22,7 @@ tags: ["有书斋-Booktalk","理论-Theory"]
 </center>
 <br>
 
-**龙彦:** Associate Professor of Sociology at the University of California, Berkeley（加州大学伯克利分校社会学长聘副教授）
+**龙彦:** Associate Professor of Sociology at the University of California, Berkeley（加州大学伯克利分校社会学副教授）
 
 ### 与谈人（Discussants）
 
