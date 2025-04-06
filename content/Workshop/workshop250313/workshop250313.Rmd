@@ -1,7 +1,7 @@
 ---
 title: "THiS Workshop of Chinese Societies (2025 Spring)"
 author: "THiS"
-date: "2025-03-09"
+date: "2025-03-08"
 categories: ["工作坊-Workshop"]
 tags: ["工作坊-Workshop"]
 thumbnail: "img/poster250313.jpg"
