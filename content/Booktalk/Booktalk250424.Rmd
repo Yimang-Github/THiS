@@ -3,7 +3,7 @@ title: "时间社有书斋 ｜疾病政治 —— 国际关系对中国公共卫
 author: "时间社"
 date: "2024-04-05"
 output: html_document
-thumbnail: "img/poster250423.jpeg"
+thumbnail: "img/poster250423.jpg"
 categories: ["有书斋-Booktalk"]
 tags: ["有书斋-Booktalk","理论-Theory"]
 ---
